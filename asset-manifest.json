@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hapid-triansyah/static/css/main.09f6e33c.css",
+    "main.js": "/hapid-triansyah/static/js/main.30166ca0.js",
+    "static/js/787.633816a4.chunk.js": "/hapid-triansyah/static/js/787.633816a4.chunk.js",
+    "index.html": "/hapid-triansyah/index.html",
+    "main.09f6e33c.css.map": "/hapid-triansyah/static/css/main.09f6e33c.css.map",
+    "main.30166ca0.js.map": "/hapid-triansyah/static/js/main.30166ca0.js.map",
+    "787.633816a4.chunk.js.map": "/hapid-triansyah/static/js/787.633816a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09f6e33c.css",
+    "static/js/main.30166ca0.js"
+  ]
+}
