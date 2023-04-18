@@ -11,7 +11,7 @@ export default function ModalMenu() {
   return (
     <>
       {show && (
-        <div className="w-screen h-screen flex flex-col justify-center items-center bg-[#212121]/90 fixed top-0 left-0 z-[200]">
+        <div className="w-screen h-screen flex flex-col justify-center items-center bg-[#212121]/90 fixed top-0 left-0 z-[200] text-orange-400">
           <Link to={"/"} className="w-full h-12 flex justify-center items-center" onClick={handleShowModal}>
             Home
           </Link>
