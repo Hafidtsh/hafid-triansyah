@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hapid-triansyah/static/css/main.040ea528.css",
-    "main.js": "/hapid-triansyah/static/js/main.ac59ddf6.js",
-    "static/js/787.633816a4.chunk.js": "/hapid-triansyah/static/js/787.633816a4.chunk.js",
-    "static/media/Foto2.JPG": "/hapid-triansyah/static/media/Foto2.4723559a43c5cb56dafe.JPG",
-    "static/media/Foto.JPG": "/hapid-triansyah/static/media/Foto.4b10c47ac9f8cefa9c1f.JPG",
-    "index.html": "/hapid-triansyah/index.html",
-    "main.040ea528.css.map": "/hapid-triansyah/static/css/main.040ea528.css.map",
-    "main.ac59ddf6.js.map": "/hapid-triansyah/static/js/main.ac59ddf6.js.map",
-    "787.633816a4.chunk.js.map": "/hapid-triansyah/static/js/787.633816a4.chunk.js.map"
+    "main.css": "/hapid-triansyah.git/static/css/main.040ea528.css",
+    "main.js": "/hapid-triansyah.git/static/js/main.fd39d2bc.js",
+    "static/js/787.633816a4.chunk.js": "/hapid-triansyah.git/static/js/787.633816a4.chunk.js",
+    "static/media/Foto2.JPG": "/hapid-triansyah.git/static/media/Foto2.4723559a43c5cb56dafe.JPG",
+    "static/media/Foto.JPG": "/hapid-triansyah.git/static/media/Foto.4b10c47ac9f8cefa9c1f.JPG",
+    "index.html": "/hapid-triansyah.git/index.html",
+    "main.040ea528.css.map": "/hapid-triansyah.git/static/css/main.040ea528.css.map",
+    "main.fd39d2bc.js.map": "/hapid-triansyah.git/static/js/main.fd39d2bc.js.map",
+    "787.633816a4.chunk.js.map": "/hapid-triansyah.git/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.040ea528.css",
-    "static/js/main.ac59ddf6.js"
+    "static/js/main.fd39d2bc.js"
   ]
 }
