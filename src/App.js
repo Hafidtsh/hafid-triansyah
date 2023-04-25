@@ -4,6 +4,7 @@ import AboutPage from "./pages/AboutPage";
 import DetailSkill from "./pages/DetailSkill";
 import Introduction from "./pages/Introduction";
 import SkillPage from "./pages/SkillPage";
+import { NotFound } from "./pages/NotFound";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Route path="/about" element={<AboutPage />} />
       <Route path="/skill" element={<SkillPage />} />
       <Route path="/skill/:item" element={<DetailSkill />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
   );
 }
