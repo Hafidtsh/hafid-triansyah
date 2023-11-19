@@ -13,7 +13,7 @@ function App() {
       <Route path="/about" element={<AboutPage />} />
       <Route path="/skill" element={<SkillPage />} />
       <Route path="/skill/:item" element={<DetailSkill />} />
-      <Route path="*" element={<Introduction />} />
+      <Route path="*" element={<NotFound />} />
     </Routes>
   );
 }
