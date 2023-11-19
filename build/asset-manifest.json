@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://hafidtsh.github.io/hapid-triansyah/static/css/main.040ea528.css",
-    "main.js": "https://hafidtsh.github.io/hapid-triansyah/static/js/main.ad8ad60c.js",
+    "main.js": "https://hafidtsh.github.io/hapid-triansyah/static/js/main.112877ff.js",
     "static/js/787.633816a4.chunk.js": "https://hafidtsh.github.io/hapid-triansyah/static/js/787.633816a4.chunk.js",
     "static/media/Foto2.JPG": "https://hafidtsh.github.io/hapid-triansyah/static/media/Foto2.4723559a43c5cb56dafe.JPG",
     "static/media/Foto.JPG": "https://hafidtsh.github.io/hapid-triansyah/static/media/Foto.4b10c47ac9f8cefa9c1f.JPG",
     "index.html": "https://hafidtsh.github.io/hapid-triansyah/index.html",
     "main.040ea528.css.map": "https://hafidtsh.github.io/hapid-triansyah/static/css/main.040ea528.css.map",
-    "main.ad8ad60c.js.map": "https://hafidtsh.github.io/hapid-triansyah/static/js/main.ad8ad60c.js.map",
+    "main.112877ff.js.map": "https://hafidtsh.github.io/hapid-triansyah/static/js/main.112877ff.js.map",
     "787.633816a4.chunk.js.map": "https://hafidtsh.github.io/hapid-triansyah/static/js/787.633816a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.040ea528.css",
-    "static/js/main.ad8ad60c.js"
+    "static/js/main.112877ff.js"
   ]
 }
